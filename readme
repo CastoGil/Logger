@@ -1,1 +1,1 @@
-Se cambio en todo el proyecto todos los console.log para trabajar con Logger y un sistema de niveles tanto para produccion como para desarrollo..
+Se cambio en todo el proyecto todos los console.log para trabajar con Logger y un sistema de niveles tanto para produccion como para desarrollo.. se creo una ruta /loggerTest para probar que todo funcione bien y se muestren por terminal y registro..
